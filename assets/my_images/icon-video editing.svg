@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="58" height="53.264" viewBox="0 0 58 53.264">
+  <g id="Group_2" data-name="Group 2" transform="translate(-1484 -440)">
+    <g id="Group_1" data-name="Group 1">
+      <g id="Group_4" data-name="Group 4">
+        <path id="Path_7" data-name="Path 7" d="M57,2.365H1a1,1,0,0,0-1,1v44a1,1,0,0,0,1,1H23a1,1,0,0,0,0-2H12v-42H46v21a1,1,0,0,0,1,1h9v8a1,1,0,0,0,2,0v-31a1,1,0,0,0-1-1Z" transform="translate(1484 437.635)" fill="#ffcb66" opacity="0.15"/>
+        <path id="Path_5" data-name="Path 5" d="M37,25.365a1,1,0,0,0-.463-.844l-11-7A1,1,0,0,0,24,18.365v14a1,1,0,0,0,1.537.844l11-7A1,1,0,0,0,37,25.365Z" transform="translate(1484 437.635)" fill="#ffcb66" opacity="0.15"/>
+      </g>
+      <g id="video_editing" data-name="video editing" transform="translate(1484 437.635)">
+        <path id="Path_4" data-name="Path 4" d="M49.276,30.239a2.989,2.989,0,0,0-4.221,0L29.664,45.63l-2.121,7.779-.519.519a1,1,0,0,0-.006,1.4v.02l.019-.005a1,1,0,0,0,1.406-.005l.52-.52L36.736,52.7l15.39-15.391a2.989,2.989,0,0,0,0-4.222ZM31.973,46.15,42.216,35.907l4.243,4.243L36.216,50.393Zm-.9,1.925,3.22,3.22-4.431,1.2ZM50.711,35.9l-2.839,2.839L43.629,34.5l2.839-2.839a.987.987,0,0,1,1.394,0l2.85,2.85A.985.985,0,0,1,50.711,35.9Z" fill="#ffcb66"/>
+        <path id="Path_5-2" data-name="Path 5" d="M25,16.365a2,2,0,0,1,1.074.313l11,7a2,2,0,0,1,0,3.375l-11,7A2,2,0,0,1,23,32.365v-14a2,2,0,0,1,2-2Zm0,16,11-7-11-7h0Z" fill="#ffcb66"/>
+        <path id="Path_6" data-name="Path 6" d="M57,2.365H1a1,1,0,0,0-1,1v44a1,1,0,0,0,1,1H23a1,1,0,0,0,0-2H12v-42H46v21a1,1,0,0,0,1,1h9v8a1,1,0,0,0,2,0v-31a1,1,0,0,0-1-1Zm-55,24h8v9H2Zm8-2H2v-9h8Zm-8,22v-9h8v9Zm8-33H2v-9h8Zm46-9v9H48v-9Zm-8,20v-9h8v9Z" fill="#ffcb66"/>
+      </g>
+    </g>
+  </g>
+</svg>
