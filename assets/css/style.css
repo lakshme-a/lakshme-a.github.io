@@ -1546,14 +1546,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 }
 
-/**
-.download-button {
-background-color: #ffffff;
-font-size: 14px;
-padding: 8px 20px;
-border-radius: 4px;
-}
- */
+/**Download Resume*/
 
  .dwnld-btn {
   position: relative;
